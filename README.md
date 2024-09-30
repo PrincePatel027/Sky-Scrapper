@@ -3,14 +3,15 @@
 
 **Sky Scrapper** is a Flutter application that allows users to search for weather information based on location. It includes features for managing a list of recent locations and persisting this data using `SharedPreferences`.
 
+## Images
+![Sky Scrapper](https://github.com/user-attachments/assets/8daad36a-5ed6-42bb-8b36-a0cafefaa9c7)
+
 ## Features
 
 - Search for weather information by location.
 - View detailed weather information for a searched location.
 - Manage a list of recent locations with the ability to add, remove, and clear entries.
 - Data persistence using `SharedPreferences` to save and load recent locations.
-
-## Screens
 
 ### Home Page
 - Displays a search bar to enter location names.
